@@ -1,0 +1,21 @@
+
+ch<= Hello my name is elyes chaabani.
+
+X<= long(ch) ;
+
+Number=0
+For i de 2 a long (ch)-1 faire
+Si ch[i] ="" alore
+Number = number +1
+Fin si
+Fin. Pour
+
+
+Mechergui Dali
+Nbvoyel=0
+For i de 1 a long (ch) faire
+Si ch[i] in (a,e,u,i,o,y)alore
+Nbvoyel = Nbvoyel +1
+Fin si
+Fin. Pour
+
